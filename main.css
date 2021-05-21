@@ -135,7 +135,6 @@
     .post1 p{
 
       text-align:center;
-      Font-size:16px;
       margin: 0;
       padding: 0;
       position: absolute;
@@ -144,6 +143,7 @@
       transform: translateX(-50%) translateY(-50%);
       color: #625240;
       font-family: Moontime;
+      font-size: 1vh;
       }
     img{
     width:16px;
