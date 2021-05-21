@@ -86,7 +86,7 @@
  .post1 p{
 
   text-align:center;
-  font-size: 1vh;
+  font-size: 10vh;
   margin: 0;
   padding: 0;
   position: absolute;
@@ -121,17 +121,6 @@
     transform: translateX(-50%) translateY(-50%);
   }
   @media only screen and (max-width:760px){
-    .pic{
-      width: 16px;
-      Height:16px;
-      align-items: center;
-      margin: 0;
-      padding: 0;
-      position: absolute;
-      top: 60%;
-      left: 50%;
-      transform: translateX(-50%) translateY(-50%); 
-    }
     .post1 p{
 
       text-align:center;
@@ -143,17 +132,8 @@
       transform: translateX(-50%) translateY(-50%);
       color: #625240;
       font-family: Moontime;
-      font-size: 1vh;
+      font-size: 1vw;
       }
-    img{
-    width:16px;
-    Height:16px;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    
   }
   }
