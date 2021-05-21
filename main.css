@@ -26,10 +26,10 @@
 }
 #sidebar .toggle-btn span {
   display:block;
-  width:30px;
-  height:3px;
+  width:35px;
+  height:5px;
   background:#625240;
-  margin:5px 0px;
+  margin:5px 10px;
   cursor:pointer;
 }
 #sidebar div.list div.item {
@@ -54,11 +54,14 @@
   overflow-y: auto;
   perspective: 1px;
 }
+
+
  .post p1{
   text-align:center;
-  font-size: 1.4vw;
+  
   margin: 0;
   padding: 0;
+  width: 700px;
   position: absolute;
   top: 20%;
   left: 50%;
@@ -67,9 +70,11 @@
   font-family: Playfair;
   
  }
+ 
  .post p{
     text-align:center;
-  font-size: 14vw;
+  font-size: 15vw;
+  width: 900px;
   margin: 0;
   padding: 0;
   position: absolute;
@@ -80,9 +85,10 @@
   font-family: Moontime;
   font-weight: 100;
   }
-  .post1 p{
-    text-align:center;
-  font-size: 5vw;
+ .post1 p{
+
+  text-align:center;
+  font-size: 3.3vw;
   margin: 0;
   padding: 0;
   position: absolute;
@@ -95,7 +101,7 @@
   .post img{
     background-size: 100px;
     width: 250px;
-    height: 250px;
+    height: 200px;
     align-items: center;
     margin: 0;
     padding: 0;
@@ -105,3 +111,5 @@
     transform: translateX(-50%) translateY(-50%);
   }
   
+
+
