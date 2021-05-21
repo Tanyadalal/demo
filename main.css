@@ -145,4 +145,15 @@
       color: #625240;
       font-family: Moontime;
       }
+    img{
+    width: 10vh;
+    height: auto;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }
   }
