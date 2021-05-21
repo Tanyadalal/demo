@@ -58,22 +58,20 @@
 
  .post p1{
   text-align:center;
-  
   margin: 0;
   padding: 0;
-  width: 700px;
   position: absolute;
   top: 20%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
   color: #625240;
   font-family: Playfair;
-  
+  font-size: 5vh;
  }
  
  .post p{
     text-align:center;
-  font-size: 15vw;
+  font-size: 18vw;
   width: 900px;
   margin: 0;
   padding: 0;
@@ -94,7 +92,7 @@
   padding: 0;
   width: 800px;
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
   color: #625240;
@@ -114,7 +112,7 @@
   }
  
  .pic{
-    width: 450px;
+    width: 36vw;
     height: auto;
     align-items: center;
     margin: 0;
