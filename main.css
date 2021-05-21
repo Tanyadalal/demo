@@ -120,7 +120,8 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
-  @media only screen and (max-width:600px){
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+  @media screen and (max-width:600px){
     .post1 p{
 
       text-align:center;
