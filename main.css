@@ -88,13 +88,14 @@
  .post1 p{
 
   text-align:center;
+
   font-size: 6vw;
   margin: 0;
   padding: 0;
-  width: 300px;
+  width: 800px;
   position: absolute;
-  top: 50%;
-  left: 20%;
+  top: 15%;
+  left: 50%;
   transform: translateX(-50%) translateY(-50%);
   color: #625240;
   font-family: Moontime;
@@ -113,14 +114,14 @@
   }
  
  .pic{
-    width: 500px;
+    width: 450px;
     height: auto;
     align-items: center;
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 50%;
-    left: 60%;
+    top: 60%;
+    left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
 
