@@ -120,42 +120,5 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
-  @media screen and (max-width:768px){
-    .post1 p{
-
-      text-align:center;
-      margin: 0;
-      padding: 0;
-      position: absolute;
-      top: 10%;
-      left: 50%;
-      transform: translateX(-50%) translateY(-50%);
-      color: #625240;
-      font-family: Moontime;
-      font-size: 5vh;
-      }
-    .pic{
-    width: 60vh;
-    height: auto;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    }
-   img{
-    width: 500px;
-    height: 450px;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-  }
-  }
 
  
