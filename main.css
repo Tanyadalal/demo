@@ -66,12 +66,12 @@
   transform: translateX(-50%) translateY(-50%);
   color: #625240;
   font-family: Playfair;
-  font-size: 2.5vh;
+  font-size: 4vh;
  }
  
  .post p{
     text-align:center;
-  font-size: 18vw;
+  font-size: 15vw;
   width: 900px;
   margin: 0;
   padding: 0;
@@ -120,6 +120,17 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
+  .pic2{
+    width: 80vh;
+    height: auto;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }
   @media only screen and (max-width:768px){
     .post1 p{
       text-align:center;
@@ -160,4 +171,15 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
+  .pic2{
+    width: 400px;
+    height: auto;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
  }
+}
