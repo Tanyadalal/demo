@@ -146,11 +146,11 @@
       border-bottom:1px solid #625240;
       color:#625240;
       text-transform:uppercase;
-    font-size:15px;
+    font-size:13px;
     font-family: Playfair;
   }
     .pic{
-    width: 390px;
+    width: 400px;
     height: auto;
     align-items: center;
     margin: 0;
