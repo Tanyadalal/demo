@@ -131,8 +131,8 @@
       transform: translateX(-50%) translateY(-50%);
       color: #625240;
       font-family: Moontime;
-      font-size: 55px;
-      width: 100vw;
+      font-size: 40px;
+      width: 360px;
       }
    #sidebar {
      position:absolute;
@@ -150,7 +150,7 @@
     font-family: Playfair;
   }
     .pic{
-    width: 100vw;
+    width: 390px;
     height: auto;
     align-items: center;
     margin: 0;
