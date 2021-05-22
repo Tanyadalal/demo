@@ -131,7 +131,8 @@
       transform: translateX(-50%) translateY(-50%);
       color: #625240;
       font-family: Moontime;
-      font-size: 350px;
+      font-size: 60px;
+      width: 400px;
       }
    #sidebar {
      position:absolute;
