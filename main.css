@@ -134,8 +134,7 @@
 
 
   .upper{
-    width: auto;
-    height: 20px;
+    size:150px
     align-items: center;
     margin: 0;
     padding: 0;
@@ -147,7 +146,7 @@
 
  .lower{
     width: auto;
-    height: 20px;
+    height: 150px;
     align-items: center;
     margin: 0;
     padding: 0;
