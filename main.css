@@ -133,40 +133,6 @@
   }
 
 
-  .upper{
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-  }
-
- .lower{
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    top: 0%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-  }
-
-
-
-
-
-  @media only screen and (min-width:768px){
-    .upper{
-      display: none;
-    }
-    .lower{
-      display: none;
-    }
-  }
-
-
 
   @media only screen and (max-width:768px){
     .post1 p{
